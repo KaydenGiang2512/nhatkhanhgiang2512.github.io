@@ -318,7 +318,7 @@
   right: 0;
   background-image: none;
 }.u-section-2 {
-  background-image: linear-gradient(#77aad9, #e0e5eb);
+  background-image: linear-gradient(#77aad9, white);
 }
 
 .u-section-2 .u-sheet-1 {
@@ -436,7 +436,7 @@
   height: 100px;
   width: 100px;
   background-image: none;
-  animation-duration: 1000ms;
+  animation-duration: 2000ms;
   margin: 0 auto;
 }
 
@@ -459,7 +459,7 @@
   height: 100px;
   width: 100px;
   background-image: none;
-  animation-duration: 1000ms;
+  animation-duration: 2000ms;
   margin: 0 auto;
 }
 
@@ -482,7 +482,7 @@
   height: 100px;
   width: 100px;
   background-image: none;
-  animation-duration: 1000ms;
+  animation-duration: 2000ms;
   margin: 0 auto;
 }
 
